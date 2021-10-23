@@ -10,3 +10,5 @@ git commit -m "detail message"
 git push 
 ## branch
 ## abc
+## chó má
+## lol
